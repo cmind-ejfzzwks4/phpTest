@@ -71,3 +71,4 @@ echo "<br />";
 // $array を降順(大きい順)にソートする
 arsort($array);
 print_r($array);
+
