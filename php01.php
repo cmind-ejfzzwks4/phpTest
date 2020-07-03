@@ -39,6 +39,6 @@ $calendar_2020 = [
 ];
 
 // 12月を表示する
-echo $calendar_2020[December];
+echo $calendar_2020["December"];
 
 ?>
